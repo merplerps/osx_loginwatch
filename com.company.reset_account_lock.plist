@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.company.reset_account_lock</string>
+    <key>Program</key>
+    <string>/Library/Scripts/reset_account_lock.py</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/var/log/resetlock.log</string>
+    <key>StandardErrorPath</key>
+    <string>/var/log/resetlock.log</string>
+</dict>
+</plist>
