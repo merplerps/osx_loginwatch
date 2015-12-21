@@ -8,8 +8,8 @@ Python and plists to assist deprecated pwpolicy on Yosemite
 * com.company.reset_account_lock.plist
 
 ### /Library/Scripts/
---loginwatch.py
---reset_account_lock.py
+* loginwatch.py
+* reset_account_lock.py
 
 ## Post-install script:
 Enforce_Password_Policy.sh
